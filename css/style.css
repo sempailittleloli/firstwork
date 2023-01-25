@@ -5,7 +5,7 @@
  .header{
      hight:100vh;
      width:100%;
-     background: url(FB_IMG_1674616277090.jpg);
+     background: liner-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(FB_IMG_1674616277090.jpg),),url(FB_IMG_1674616277090.jpg);
      background-position: center;
      background-size: cover;
      
